@@ -18,15 +18,13 @@
     <main>
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
-        <div class="img-breadcum">
-            <div class="container">
-                <img src="https://media.istockphoto.com/id/478991356/vector/certificate-border-certificate-template-vector-illustration.jpg?s=612x612&w=0&k=20&c=NhgJFfHyNWjXAJQDrd6rQKcvadTBy0WmeyC9K4pLHEc=" title="About Us" alt="About Us" />
-                <div class="sub-tt">
-Ultra Touch</div>
-                <h1 class="tt">
-Ultra Touch</h1>
-            </div>
-        </div>
+       <div class="img-breadcum">
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
+        <div class="sub-tt">System magic</div>
+        <div class="tt">System</div>
+      </div>
+    </div>
         <div class="breadcum-sec">
             <div class="container">
                 <ul>
@@ -38,8 +36,8 @@ Ultra Touch</h1>
 
 
 
-       
- <section class="certifications-section leadsure">
+
+        <section class="certifications-section leadsure">
             <div class="container wow fadeInUp" data-wow-delay=".2s">
                 <div class="section-header text-center mb-2 mb-md-5">
                     <h2 class="section-title">Our <span class="colordhead">certifications</span></h2>
@@ -94,7 +92,7 @@ Ultra Touch</h1>
 
 
     <?php include "app_footer.php" ?>
-  <?php include "app_bottom.php" ?>
+    <?php include "app_bottom.php" ?>
 
 </body>
 

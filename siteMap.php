@@ -18,11 +18,11 @@
     <main>
 
 
-        <div class="img-breadcum">
+          <div class="img-breadcum">
             <div class="container">
-                <img src="https://media.istockphoto.com/id/1394287688/photo/carpenter-shopping-in-hardware-store.jpg?s=612x612&w=0&k=20&c=2REACyiwXzjiTOe3J_rg4Ek6DHhq6f-bLvMnWkvHfeA=" loading="lazy" decoding="async" fetchpriority="high" title="About Us" alt="About Us" />
-                <div class="sub-tt">ultratouch</div>
-                <h1 class="tt">ultratouch</h1>
+                <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
+                <div class="sub-tt">System magic</div>
+                <div class="tt">System</div>
             </div>
         </div>
         <div class="breadcum-sec">
@@ -287,8 +287,6 @@
 
     <?php include "app_footer.php" ?>
     <?php include "app_bottom.php" ?>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 

@@ -102,7 +102,7 @@
 
 
                      <li><a class="ft-link" href="#" title="Certificates"><span>faq</span></a></li>
-                     <li><a class="ft-link" href="#" title="Contact us"><span>Contact Us</span></a></li>
+                     <li><a class="ft-link" href="review.php" title="Contact us"><span>Write A Review</span></a></li>
 
 
                  </ul>
@@ -411,15 +411,15 @@
 
                  <div class="col-lg-5 text-center text-lg-end">
 
-                     <a  class="ft-sep" href="#" title="Terms & Conditions">Privacy Policy</a>
+                     <a  class="ft-sep" href="privacy.php" title="Terms & Conditions">Privacy Policy</a>
 
                      
 
-                     <a class="ft-sep" href="#" title="Sitemap">Sitemap</a>
+                     <a class="ft-sep" href="siteMap.php" title="Sitemap">Sitemap</a>
 
                     
 
-                      <a class="ft-sep" href="#" title="Market Area">Market Area</a>
+                      <a class="ft-sep" href="marketArea.php" title="Market Area">Market Area</a>
 
                  </div>
 

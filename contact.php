@@ -19,12 +19,12 @@
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
         <div class="img-breadcum">
-            <div class="container">
-                <img src="https://media.istockphoto.com/id/1431914113/photo/close-up-of-drilling-hole-to-material.jpg?s=612x612&w=0&k=20&c=naGK65RFgzEjXJ5IO5-xOi386JXDRJeD64S9V1oIvMw=" loading="lazy"  decoding="async" fetchpriority="low" title="About Us" alt="About Us" />
-                <div class="sub-tt">ultratouch</div>
-                <h1 class="tt">ultratouch</h1>
-            </div>
-        </div>
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
+        <div class="sub-tt">System magic</div>
+        <div class="tt">System</div>
+      </div>
+    </div>
         <div class="breadcum-sec">
             <div class="container">
                 <ul>
@@ -195,8 +195,6 @@
 
     <?php include "app_footer.php" ?>
     <?php include "app_bottom.php" ?>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 
 </body>

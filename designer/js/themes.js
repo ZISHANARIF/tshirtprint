@@ -306,7 +306,7 @@ wow.init();
 
     // ******************************progress bar scroll top js*****************************
 
-      const scrollTopBtn = document.getElementById("scrollTopBtn");
+const scrollTopBtn = document.getElementById("scrollTopBtn");
 
     // Show button when user scrolls down 200px
     window.onscroll = function() {
@@ -326,32 +326,65 @@ wow.init();
     };
 
 
+document.addEventListener("DOMContentLoaded", function () {
 
+    document.querySelectorAll(".unique-star-rating").forEach(function (container) {
 
-  document.addEventListener("DOMContentLoaded", function () {
-      document.querySelectorAll(".unique-star-rating").forEach(function (container) {
-        const rating = parseFloat(container.getAttribute("data-rating"));
-        const stars = container.querySelectorAll(".unique-starM");
+        const stars = container.querySelectorAll(".unique-starR");
+        const inputField = container.querySelector("#rating-value");
 
         stars.forEach((star, index) => {
-          const starValue = index + 1;
-          star.classList.remove("full", "half");
 
-          if (rating >= starValue) {
-            star.classList.add("full");
-          } else if (rating >= starValue - 0.5) {
-            star.classList.add("half");
-          }
+            star.addEventListener("click", function () {
+                let current = star.getAttribute("data-state") || "empty"; 
+                let starValue = index + 1;
+                let rating = 0;
+
+                // cycle empty → half → full → empty
+                if (current === "empty") {
+                    star.setAttribute("data-state", "half");
+                    rating = starValue - 0.5;
+                } 
+                else if (current === "half") {
+                    star.setAttribute("data-state", "full");
+                    rating = starValue;
+                } 
+                else {
+                    star.setAttribute("data-state", "empty");
+                    rating = starValue - 1;
+                }
+
+                updateStars(stars);
+
+                inputField.value = rating;
+            });
         });
-      });
+
     });
+
+    // Update visual stars based on their data-state
+    function updateStars(stars) {
+        stars.forEach((star, index) => {
+            let state = star.getAttribute("data-state") || "empty";
+            star.classList.remove("full", "half");
+
+            if (state === "full") {
+                star.classList.add("full");
+            } 
+            else if (state === "half") {
+                star.classList.add("half");
+            } 
+        });
+    }
+});
+
 
 
   // *****************testimonials section code**************************
 
 
 
-           var swiper = new Swiper(".mySwiper", {
+    var swiper = new Swiper(".mySwiper", {
 
       // Your requested config
 

@@ -78,7 +78,7 @@
                     <div class="menu main_header" bis_skin_checked="1">
                         <ul class="nav">
                             <li class="active"><a href="./index.php" title="Home">Home</a></li>
-                            <li><a href="#" title="About Us">About</a></li>
+                            <li><a href="about.php" title="About Us">About</a></li>
                             <!-- <li class="ls-submenu ">
                                 <a href="#" title="Our Products">Products</a>
                                 <ul class="ls-dropdown">
@@ -137,12 +137,12 @@
 
                                 </ul>
                             </li> -->
-                            <li><a href="#arrival" title="Faq">Tshirt Printing</a></li>
+                            <li><a href="category.php" title="Faq">Tshirt Printing</a></li>
 
                             <li><a href="#" title="Blog">Hoodie Printing</a></li>
                             <li><a href="#" title="Faq">Cap Printing </a></li>
                             <li><a href="#" title="Faq">Umbrella Printing</a></li>
-                            <li><a href="#" title="Contact">Blog</a></li>
+                            <li><a href="blog.php" title="Contact">Blog</a></li>
 
                             <li><a href="#" title="Contact">Contact</a></li>
 

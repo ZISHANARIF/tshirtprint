@@ -19,9 +19,9 @@
     <!-- ===== Breadcrumb Hero (bc01) ===== -->
     <div class="img-breadcum">
       <div class="container">
-        <img src="https://media.istockphoto.com/id/1224113576/photo/tool.jpg?s=612x612&w=0&k=20&c=_Y92wARA3Kp0_Q2KSSP6eHTfT26TYOtEAYje_OAtvYE=" loading="lazy" decoding="async" title="About Us" alt="About Us" />
-        <div class="sub-tt">Ultra Touch</div>
-        <div class="tt">Ultra Touch</div>
+        <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
+        <div class="sub-tt">System magic</div>
+        <div class="tt">System</div>
       </div>
     </div>
     <div class="breadcum-sec">
@@ -34,333 +34,285 @@
     </div>
 
 
-    <!-- ===== Text + Image Section (Aspect-ratio image) ===== -->
-
     <section class="leadsure aboutsection">
+
       <div class="container">
-        <div class="row align-items-center g-2 g-md-4 wow fadeInUp animated" data-wow-delay=".1s">
 
-
-
+        <div class="row align-items-center g-2 g-md-4 wow fadeInLeft animated" data-wow-delay=".1s">
           <div class="col-lg-6">
-            <div class="ps-lg-4 leadseo">
-              <div class="eyebrow-section">[ About Us ]</div>
-              <div class="leadsureheading">Ultra Touch Power Tool – Trusted Manufacturer in Mumbai</div>
-              <p>
-                Ultra Touch Power Tool is one of the leading manufacturers and suppliers of premium hardware tools in Mumbai. We specialize in producing high-quality screwdrivers, nuts, bolts, wrenches, and other precision-engineered tools </p>
-              <p>
-                designed for both industrial and household use. Known for durability, accuracy, and ergonomic design, our tools are crafted to meet the needs of professionals, technicians, and DIY users across Mumbai and nearby regions.
-              </p>
+
+            <div class="">
+
+              <div class="eyebrow-section">About Us</div>
+
+              <h1 class="leadsureheading">Custom T-Shirt, Hoodie, and Cap Printing – Wear Your Style with Confidence</h1>
+
+              <p class="leadsurepara">Express yourself with premium-quality custom printing solutions from AP Prints — your trusted partner for personalized apparel and accessories. We specialize in T-shirt printing, hoodie printing, and cap printing that combine creativity, comfort, and quality. Whether you’re promoting your brand, designing team uniforms, or creating trendy streetwear, we bring your ideas to life with precision and style.</p>
+
+              <div class="latest-about2__content-text">
+                <ul>
+                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
+                    </svg> Printing on paper and card stock</li>
+                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
+                    </svg> Printing on vinyl and other materials</li>
+                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
+                    </svg> Large-format printing</li>
+                  <li><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-check-lg" viewBox="0 0 16 16">
+                      <path d="M12.736 3.97a.733.733 0 0 1 1.047 0c.286.289.29.756.01 1.05L7.88 12.01a.733.733 0 0 1-1.065.02L3.217 8.384a.757.757 0 0 1 0-1.06.733.733 0 0 1 1.047 0l3.052 3.093 5.4-6.425z" />
+                    </svg> Custom design and branding services</li>
+                </ul>
+
+              </div>
+
+              <a href="https://www.leadsure.co.in/ultra/about-us.html" class="main-btn" role="button"
+                title="Learn More About - Ultra Touch">Read More <svg
+                  xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                  class="bi bi-arrow-right" viewBox="0 0 16 16">
+
+                  <path fill-rule="evenodd"
+                    d="M1 8a.5.5 0 0 1 .5-.5h11.793l-3.147-3.146a.5.5 0 0 1 .708-.708l4 4a.5.5 0 0 1 0 .708l-4 4a.5.5 0 0 1-.708-.708L13.293 8.5H1.5A.5.5 0 0 1 1 8">
+                  </path>
+
+                </svg></a>
+
             </div>
+
           </div>
 
-          <div class="col-lg-6">
-            <div class="position-relative hero-about-image">
-              <img src="https://media.istockphoto.com/id/1157321518/photo/work-tools-on-the-garage-wall-and-work-table.jpg?s=612x612&w=0&k=20&c=1RhKu9za7f77eQ1f8CQEy2zIc8wxOjfoltOuX8kam40=" class="img-fluid" loading="lazy" decoding="async" alt="A modern and clean medical clinic interior with a dental chair and equipment.">
 
+
+          <div class="col-lg-6 wow fadeInRight animated" data-wow-delay=".2s">
+
+            <div class=" hero-about-image">
+
+              <img src="./designer/images/about2.png" loading="lazy" decoding="async" alt="Ultra Touch" title="Ultra Touch">
 
             </div>
+
           </div>
+
+
 
         </div>
+
       </div>
+
     </section>
 
-    <section class="philosophy-section leadsure">
+
+
+
+    <section class="services-section leadsure">
       <div class="container">
 
-        <div class="row">
-          <div class="col-12 text-center">
-            <div class="eyebrow-section text-light">[ COMPANY STRATEGY ]</div>
-            <div class="section-title text-light">Our Philosophy</div>
-          </div>
+        <!-- Header Section -->
+        <div class="text-center">
+          <div class="eyebrow-section">Our Main Services</div>
+          <div class="section-title">Professional Digital Printing</div>
         </div>
 
+        <!-- Grid Section -->
         <div class="row justify-content-center">
 
-                <div class="col-lg-4 col-md-6 col-12 mb-4">
-                    <div class="flip-card">
-                        <div class="flip-card-inner">
-                            
-                            <div class="flip-card-front d-flex flex-column justify-content-center align-items-center p-4">
-                                <img src="https://templates.thememodern.com/theratio/images/support1.jpg" class="card-front-img" alt="Missions Background">
-                                <div class="card-front-content text-center">
-                                    <div class="card-front-icon-wrapper">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-bullseye" viewBox="0 0 16 16">
-                                            <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
-                                            <path d="M8 13A5 5 0 1 1 8 3a5 5 0 0 1 0 10m0 1A6 6 0 1 0 8 2a6 6 0 0 0 0 12" />
-                                            <path d="M8 11a3 3 0 1 1 0-6 3 3 0 0 1 0 6m0 1a4 4 0 1 0 0-8 4 4 0 0 0 0 8" />
-                                            <path d="M9.5 8a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0" />
-                                        </svg>
-                                    </div>
-                                    <div class="leadsureheading text-light">Our Missions</div>
-                                </div>
-                            </div>
-                            
-                            <div class="flip-card-back d-flex flex-column justify-content-center align-items-center p-4">
-                                <p class="leadsurepara text-light text-center">
-                                    To deliver innovative and sustainable design solutions that exceed client expectations and positively impact communities.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 mb-4">
-                    <div class="flip-card">
-                        <div class="flip-card-inner">
-                            
-                            <div class="flip-card-front d-flex flex-column justify-content-center align-items-center p-4">
-                                <img src="https://templates.thememodern.com/theratio/images/support2.jpg" class="card-front-img" alt="Vision Background">
-                                <div class="card-front-content text-center">
-                                    <div class="card-front-icon-wrapper">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-chat-square-heart" viewBox="0 0 16 16">
-                                            <path d="M14 1a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1h-2.5a2 2 0 0 0-1.6.8L8 14.333 6.1 11.8a2 2 0 0 0-1.6-.8H2a1 1 0 0 1-1-1V2a1 1 0 0 1 1-1zM2 0a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2.5a1 1 0 0 1 .8.4l1.9 2.533a1 1 0 0 0 1.6 0l1.9-2.533a1 1 0 0 1 .8-.4H14a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2z" />
-                                            <path d="M8 3.993c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132" />
-                                        </svg>
-                                    </div>
-                                    <div class="leadsureheading text-light">Our Vision</div>
-                                </div>
-                            </div>
-                            
-                            <div class="flip-card-back d-flex flex-column justify-content-center align-items-center p-4">
-                                <p class="leadsurepara text-light text-center">
-                                    To be a globally recognized leader in architectural design, known for our creativity, integrity, and commitment to excellence.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 mb-4">
-                    <div class="flip-card">
-                        <div class="flip-card-inner">
-                            
-                            <div class="flip-card-front d-flex flex-column justify-content-center align-items-center p-4">
-                                <img src="https://templates.thememodern.com/theratio/images/support3.jpg" class="card-front-img" alt="Values Background">
-                                <div class="card-front-content text-center">
-                                    <div class="card-front-icon-wrapper">
-                                        <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" fill="currentColor" class="bi bi-gem" viewBox="0 0 16 16">
-                                            <path d="M3.1.7a.5.5 0 0 1 .4-.2h9a.5.5 0 0 1 .4.2l2.976 3.974c.149.185.156.45.01.644L8.4 15.3a.5.5 0 0 1-.8 0L.1 5.3a.5.5 0 0 1 0-.6zm11.386 3.785-1.806-2.41-.776 2.413zm-3.633.004.961-2.989H4.186l.963 2.995zM5.47 5.495 8 13.366l2.532-7.876zm-1.371-.999-.78-2.422-1.818 2.425zM1.499 5.5l5.113 6.817-2.192-6.82zm7.889 6.817 5.123-6.83-2.928.002z" />
-                                        </svg>
-                                    </div>
-                                    <div class="leadsureheading text-light">Our Values</div>
-                                </div>
-                            </div>
-                            
-                            <div class="flip-card-back d-flex flex-column justify-content-center align-items-center p-4">
-                                <p class="leadsurepara text-light text-center">
-                                    Creativity, Collaboration, Integrity, and Sustainability are the core principles that guide every project we undertake.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>  
-      </div>
-    </section>
-
-
-     <!-- browse by category section code -->
-    <section class="category-section leadsure">
-      <div class="container wow fadeInLeft animated" data-wow-delay=".1s">
-
-        <div class="row">
-          <div class="col-12 text-center">
-            <div class="section-title">Ultra Touch Power Tool – Power Meets Precision</div>
-          </div>
-        </div>
-
-        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-6 g-4">
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/1angle.webp">
-              </div>
-              <div class="leadsuresubheading">Angle Grinder</div>
-            </a>
-          </div>
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/2marble.webp">
-
-              </div>
-              <div class="leadsuresubheading">Marble Cutter</div>
-            </a>
-          </div>
-
          
-
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/4CuttingWheel.webp">
-
+          <div class="col-lg-3 col-md-6">
+            <div class="service-item text-center">
+              <div class="icon-boxabout">
+                <img src="./designer/images/tshirt.svg">
               </div>
-              <div class="leadsuresubheading">Cutting Wheel</div>
-            </a>
+              <div class="leadsuresubheading">Banner Printing</div>
+              <p class="ledsurepara">
+                There are many variations but the majority have suffered.
+              </p>
+             
+            </div>
           </div>
 
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/5HammerDrill.webp">
 
+          <div class="col-lg-3 col-md-6">
+            <div class="service-item text-center">
+              <div class="icon-boxabout">
+                <img src="./designer/images/hoodie.svg">
               </div>
-              <div class="leadsuresubheading">Hammer Drill</div>
-            </a>
+              <div class="leadsuresubheading">hoodie Printing</div>
+              <p class="ledsurepara">
+                There are many variations but the majority have suffered.
+              </p>
+             
+            </div>
           </div>
 
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/6CordlessDrillMachine.webp">
-
+         <div class="col-lg-3 col-md-6">
+            <div class="service-item text-center">
+              <div class="icon-boxabout">
+                <img src="./designer/images/cap.svg">
               </div>
-              <div class="leadsuresubheading">Cordless Drill</div>
-            </a>
+              <div class="leadsuresubheading">cap Printing</div>
+              <p class="ledsurepara">
+                There are many variations but the majority have suffered.
+              </p>
+             
+            </div>
           </div>
 
-          <div class="col">
-            <a href="#" class="category-item text-center">
-              <div class="category-icon-wrapper">
-                <img src="./designer/images/7SawBlade.webp">
-
+          <div class="col-lg-3 col-md-6">
+            <div class="service-item text-center">
+              <div class="icon-boxabout">
+                <img src="./designer/images/umbrella.svg">
               </div>
-              <div class="leadsuresubheading">Saw Blade</div>
-            </a>
+              <div class="leadsuresubheading">umbrella Printing</div>
+              <p class="ledsurepara">
+                There are many variations but the majority have suffered.
+              </p>
+             
+            </div>
           </div>
-
 
         </div>
       </div>
     </section>
 
 
+    <section class="design-gallery-section leadsure">
 
-       <!-- highlights section code -->
 
-    <section class="highlights-section leadsure">
-      <div class="container">
-        <div class="row">
+            <div class="section-title text-center wow fadeInLeft animated" data-wow-delay=".1s">
+                Creative Portfolio Gallery <span class="colordhead">Showcase</span>
+            </div>
 
-          <div class="col-lg-6 wow fadeInLeft animated" data-wow-delay=".1s">
-            <div class="faq-title">OUR <span class="colordhead">HIGHLIGHTS</span> </div>
-            <div class="separator"></div>
+            <div class="row g-2 g-md-4 justify-content-center wow fadeInUp animated" data-wow-delay=".2s" id="expanding-gallery">
 
-            <div class="row row-cols-2 row-cols-lg-3 g-3 mt-4">
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/384034/dart-mission-goal-success.svg" class=" box-icon"></img>
-                  <div class="leadsuresubheading mt-3">Mission</div>
+                <div class="col-6 col-lg-4 gallery-col " data-size-large="col-lg-4" data-size-small="col-lg-2">
+                    <div class="gallery-item">
+                        <div class="gallery-image-wrapper">
+                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img1.jpg" alt="T-Shirt Design">
+                        </div>
+                        <div class="gallery-item-title">Custom Design</div>
+                    </div>
                 </div>
-              </div>
 
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/482815/eye-6.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Vision</div>
+                <div class="col-6 col-lg-2 gallery-col" data-size-large="col-lg-4" data-size-small="col-lg-2">
+                    <div class="gallery-item">
+                        <div class="gallery-image-wrapper">
+                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img2.jpg" alt="Notebook Design">
+                        </div>
+                        <div class="gallery-item-title">Design</div>
+                    </div>
                 </div>
-              </div>
 
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/513650/diamond.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Core Values</div>
+                <div class="col-6 col-lg-2 gallery-col is-active" data-size-large="col-lg-4" data-size-small="col-lg-2">
+                    <div class="gallery-item">
+                        <div class="gallery-image-wrapper">
+                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img3.jpg" alt="Bottle Design">
+                        </div>
+                        <div class="gallery-item-title">Satisfied Design</div>
+                    </div>
                 </div>
-              </div>
 
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/427534/idea-light-lightbulb.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Strategy</div>
+                <div class="col-6 col-lg-2 gallery-col" data-size-large="col-lg-4" data-size-small="col-lg-2">
+                    <div class="gallery-item">
+                        <div class="gallery-image-wrapper">
+                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img4.jpg" alt="Bag Design">
+                        </div>
+                        <div class="gallery-item-title">Promo Design</div>
+                    </div>
                 </div>
-              </div>
 
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/261547/research.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Research</div>
+                <div class="col-12 col-md-6 col-lg-2 gallery-col" data-size-large="col-lg-4" data-size-small="col-lg-2">
+                    <div class="gallery-item">
+                        <div class="gallery-image-wrapper">
+                            <img src="https://html.rrdevs.net/printfix/assets/imgs/projact/projact-img5.jpg" alt="Bag Design">
+                        </div>
+                        <div class="gallery-item-title">Promo Design</div>
+                    </div>
                 </div>
-              </div>
-
-              <div class="col">
-                <div class="highlight-box">
-                  <img src="https://www.svgrepo.com/show/308264/global-leader-happy-strong-power.svg" class=" box-icon"></img>
-
-                  <div class="leadsuresubheading mt-3">Leadership</div>
-                </div>
-              </div>
 
             </div>
-          </div>
 
-        </div>
-        <div class="mission-card-wrapper wow fadeInRight animated" data-wow-delay=".1s">
-          <div class="mission-card">
-            <div class="card-header">
-              <img src="https://www.svgrepo.com/show/322081/conqueror.svg" class="box-icon"></img>
-              <div class="leadsuresubheading">OUR MISSION</div>
-            </div>
-            <p class="leadsurepara">
-              Ultra Touch Power Tool is one of the leading manufacturers and suppliers of premium hardware tools in Mumbai. We specialize in producing high-quality screwdrivers, nuts, bolts, wrenches, and other precision-engineered tools designed for both industrial and household use. Known for durability, accuracy,
-              Ultra Touch Power Tool is one of the leading manufacturers and suppliers of premium hardware tools in Mumbai. We specialize in producing high-quality nuts, bolts, wrenches, and other
+        </section>
 
-          </div>
-        </div>
-
-      </div>
-    </section>
 
 
     <!-- ***********************seo section code************************* -->
-    <section class="section-highlight leadsure">
-      <div class="container">
-        <div class="row g-2 g-md-3 align-items-start  wow fadeInLeft animated" data-wow-delay=".1s"> <!-- Left Column (Content first now) -->
+      <div class="seosection">
 
-          <div class="col-lg-12 col-md-7 col-12">
-            <div class="feature-copy h-100"> <input type="checkbox" id="read-more-toggle" class="read-more-toggle"> <!-- Content wrapper -->
-              <div class="seo-content61 leadseo">
-                <h2>Unleash Power and Precision with the Ultra Touch Angle Grinder</h2>
-                <p>The Ultra Touch Angle Grinder is a high-performance power tool built for professionals who value precision, durability, and efficiency. Designed in Mumbai, this tool ensures smooth operation whether you are cutting, grinding, polishing, or finishing metal and concrete surfaces. Its compact yet powerful build makes it a must-have for workshops, fabrication units, and home users alike.</p>
+            <div class="row align-items-center">
 
-                <h2>Engineered for Performance and Long-Lasting Quality</h2>
-                <p>Each Ultra Touch Angle Grinder is crafted using advanced technology and high-quality components to deliver consistent results even in demanding work conditions. Its powerful motor offers high torque and stable speed, making it perfect for industrial and heavy-duty applications.</p>
-                <p>The ergonomic soft-grip handle provides excellent comfort and control during long hours of use, while its heat-resistant design ensures safety and durability. From construction sites to repair shops, the Ultra Touch Angle Grinder performs flawlessly across various tasks.</p>
-                <p>Whether you need to smooth weld joints, cut through steel pipes, or polish metal surfaces, this grinder combines strength with precision for unmatched results every time.</p>
+                <div class="col-lg-6 col-12 wow fadeInUp animated" data-wow-delay=".1s">
 
-                <h3>Why Choose Ultra Touch Angle Grinder</h3>
-                <p>The Ultra Touch Angle Grinder is trusted by technicians, builders, and metalworkers across Mumbai for its reliability, performance, and easy maintenance. It’s designed to handle heavy workloads with minimal vibration and maximum output, ensuring efficiency and comfort.</p>
+                    <div class="feature-copy h-100 p-4 p-lg-5 align-content-center">
+                        <input type="checkbox" id="read-more-toggle" class="read-more-toggle">
 
-                <p>Each unit is quality-tested to guarantee durability, safety, and smooth performance even in tough conditions. Our commitment to engineering excellence ensures that every user experiences superior power and precision.</p>
+                        <div class="seo-content61 leadseo">
 
-                <p>With a focus on technology, durability, and user comfort, the Ultra Touch Angle Grinder stands out as a dependable power tool for every professional and DIY enthusiast in Mumbai.</p>
-                <ul>
-                  <li>Powerful motor for consistent cutting and grinding</li>
-                  <li>Ergonomic and lightweight design for better handling</li>
-                  <li>Durable body structure for long-term use</li>
-                  <li>Ideal for metal fabrication, polishing, and surface finishing</li>
-                </ul>
+                            <h2>T-Shirt Printing Manufacturer in India</h2>
+                            <p>Our growing presence as a <strong>T-Shirt Printing Manufacturer in India</strong> comes from
+                                creating apparel that blends creativity, comfort, and durability. Professionals and brands choose
+                                our printed T-shirts for their vibrant designs, long-lasting prints, and high-quality fabrics. Every
+                                T-shirt is crafted using advanced printing technology that ensures clarity, precision, and consistent
+                                color quality, strengthening our position as a <strong>T-Shirt Printing Manufacturer in India</strong>.</p>
+                            <p>Each printed T-shirt undergoes strict testing for color fastness, print strength, and fabric quality.
+                                This helps businesses, schools, and fashion brands achieve professional-grade results that make their
+                                identity stand out with every wear.</p>
+                            <ul>
+                                <li><strong>Vibrant and durable prints</strong></li>
+                            </ul>
+                            <ul>
+                                <li><strong>Soft and breathable fabric quality</strong></li>
+                            </ul>
+                            <ul>
+                                <li><strong>Available in bulk or customized designs</strong></li>
+                            </ul>
+                            <ul>
+                                <li><strong>Perfect for brands, events, and promotions</strong></li>
+                            </ul>
+                            <h2>Hoodie Printing Supplier in Mumbai</h2>
+                            <p>We support fashion retailers and corporate clients as a
+                                <strong>Hoodie Printing Supplier in Mumbai</strong>, delivering customized hoodies designed for
+                                comfort and style. Using advanced screen and digital printing, we create durable designs that retain
+                                their color and texture even after multiple washes. Stylish fits and fine finishing make us a
+                                trusted <strong>Hoodie Printing Supplier in Mumbai</strong>.
+                            </p>
+                            <p>Our printed hoodies are
+                                ideal for company branding, team uniforms, college events, and personal fashion wear.
+                                Customers appreciate the soft fabric, detailed print quality, and timely delivery across
+                                Mumbai and nearby cities.</p>
 
-                <h3>Conclusion</h3>
-                <p>Experience the perfect balance of power, safety, and control with the Ultra Touch Angle Grinder — your trusted power tool partner for industrial and personal projects in Mumbai.</p>
 
-              </div><label for="read-more-toggle" class="read-more-btn"></label>
+
+                        </div>
+                        <label for="read-more-toggle" class="read-more-btn"></label>
+
+                    </div>
+                </div>
+
+                <div class="col-lg-6 wow fadeInRight animated" data-wow-delay=".1s">
+                    <div class="hero-composition-wrapper">
+
+                        <div class="card product-card-hoodie border-0">
+                            <img src="https://html.rrdevs.net/printfix/assets/imgs/fact-4/fact-4__02.jpg"
+                                alt="Blue Hoodie"
+                                class="product-img">
+                        </div>
+
+                        <a href="#" class="cta-btn-custom main-btn">
+                            Explore Product
+                        </a>
+
+                        <div class="card product-card-tshirt border-0">
+                            <img src="https://html.rrdevs.net/printfix/assets/imgs/fact-4/fact-4__02.jpg"
+                                alt="Colorful T-Shirt"
+                                class="product-img">
+                        </div>
+
+                    </div>
+                </div>
             </div>
-          </div>
 
         </div>
-      </div>
-    </section>
 
   </main>
 

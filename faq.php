@@ -19,12 +19,12 @@
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
         <div class="img-breadcum">
-            <div class="container">
-                <img src="https://media.istockphoto.com/id/1365089167/photo/water-is-pouring-from-the-shower-head-into-the-shower-room.jpg?s=612x612&w=0&k=20&c=uv_f98kU5XMDJdHDUiU58xQDu6DIeeLKdGF4ys97CE0=" title="About Us" alt="About Us" />
-                <h1 class="sub-tt">Speed Bath Tech</h1>
-                <h2 class="tt">Speed Bath Tech</h2>
-            </div>
-        </div>
+      <div class="container">
+        <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
+        <div class="sub-tt">System magic</div>
+        <div class="tt">System</div>
+      </div>
+    </div>
         <div class="breadcum-sec">
             <div class="container">
                 <ul>
@@ -182,8 +182,6 @@
 
     <?php include "app_footer.php" ?>
     <?php include "app_bottom.php" ?>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 
 </body>

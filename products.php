@@ -18,11 +18,11 @@
     <main>
 
         <!-- ===== Breadcrumb Hero (bc01) ===== -->
-        <div class="img-breadcum">
+          <div class="img-breadcum">
             <div class="container">
-                <img src="https://media.istockphoto.com/id/1401285340/photo/a-set-of-abrasive-grinding-wheels-for-construction-work.jpg?s=612x612&w=0&k=20&c=eU8ZWsReQLI74JN-TkzB1KeEOZN0-9qScpoqWIBVHsg=" loading="lazy" decoding="async" title="About Us" alt="About Us" />
-                <div class="sub-tt">Ultra Touch</div>
-                <h1 class="tt">Ultra Touch</h1>
+                <img src="https://media.istockphoto.com/id/1085697804/photo/mens-clothing-with-personal-accesorries.jpg?s=612x612&w=0&k=20&c=cCHg5UWeuyBKR5NB14KL6ylXQtTa1xXwkoqkOCMDlUI=" title="About Us" alt="About Us" />
+                <div class="sub-tt">System magic</div>
+                <div class="tt">System</div>
             </div>
         </div>
         <div class="breadcum-sec">
@@ -381,8 +381,6 @@
 
     <?php include "app_footer.php" ?>
     <?php include "app_bottom.php" ?>
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
 </body>
 
